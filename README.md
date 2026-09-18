@@ -1,4 +1,4 @@
-# Alex Lelo | IT Help Desk Portfolio
+# Alex Lelo | IT/Cyber Security Portfolio
 
 Welcome to my IT portfolio!
 
