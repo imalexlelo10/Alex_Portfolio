@@ -15,7 +15,7 @@ I use this GitHub to document my **technical projects, home labs, troubleshootin
 
 ## 🛠️ Personal Projects
 
-### 🤖 AI + IAM Access Review
+### 🤖 AI + IAM Access Review | Link: https://github.com/imalexlelo10/AI_IAM_Access_Review
 A Python-based IAM project designed to simulate an organization's **user access review process**.
 
 The project analyzes employee information such as job roles, security groups, employment status, and account status to identify potential access risks. It applies concepts including **RBAC, least privilege, access reviews, and the Joiner-Mover-Leaver (JML) lifecycle** while exploring how AI can assist with analyzing and explaining IAM findings.
