@@ -1,6 +1,7 @@
 # Alex Lelo | IT/Cyber Security Portfolio
 
-Welcome to my IT portfolio!
+Welcome to my IT portfolio!        **LinkedIn:** https://www.linkedin.com/in/alex-m-lelo/  
+
 
 # Hi, I'm Alex 👋
 
@@ -74,7 +75,3 @@ These labs focus on diagnosing **Windows, hardware, software, networking, accoun
 - Cybersecurity fundamentals
 - PowerShell
 - Access review and identity lifecycle concepts
-
-## 📫 Connect With Me
-
-**LinkedIn:** https://www.linkedin.com/in/alex-m-lelo/  
