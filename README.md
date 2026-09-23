@@ -12,7 +12,7 @@ My career goal is to begin in **IT Support**, where I can strengthen my troubles
 
 I use this GitHub to document my **technical projects, home labs, troubleshooting experience, and continued growth in IT and cybersecurity**.
 
-## 🛠️ What I'm Working On
+## 🛠️ Personal Projects
 
 ### 🤖 AI + IAM Access Review
 A Python-based IAM project designed to simulate an organization's **user access review process**.
