@@ -77,5 +77,4 @@ These labs focus on diagnosing **Windows, hardware, software, networking, accoun
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [Add LinkedIn URL]  
-**Portfolio:** [Add Portfolio URL when ready]
+**LinkedIn:** https://www.linkedin.com/in/alex-m-lelo/  
